@@ -106,11 +106,6 @@ I have a learnt alot,like connecting databases with python, deploying in streaml
 Python, SQL, MongoDB,Data Visualization Tools...
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## 🚀 About Me
 
 
