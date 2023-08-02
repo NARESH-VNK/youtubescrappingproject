@@ -21,9 +21,9 @@ Install my-project with npm
     
 ## CONNECTIONS
 
-For this project wee need to connect different Databases and packages through python.
+For this project we need to connect different Databases and packages through python.
 
-* Use pakages Psycopg2 - Python to SQL connection
+* Use packages Psycopg2 - Python to SQL connection
 
 - Use Package Pymongo - Python to MongoDB connection
 
